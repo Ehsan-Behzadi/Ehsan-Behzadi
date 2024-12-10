@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9a33b594-3f87-490d-b82c-918a8fdd3e3b"/>
+<img src="https://github.com/user-attachments/assets/446481b7-e7d2-453d-87a9-a5d323b1f2ab"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-behzadi) <!-- Updated URL with 'https://' -->
 
