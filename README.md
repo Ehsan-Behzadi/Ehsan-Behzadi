@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/9a33b594-3f87-490d-b82c-918a8fdd3e3b"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ehsan-behzadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-behzadi) <!-- Updated URL with 'https://' -->
 
 I'm a Freelance Data Analyst and Machine Learning Engineer passionate about transforming data into actionable insights and building intelligent and optimized solutions.
  
