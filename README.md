@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-behzadi) <!-- Updated URL with 'https://' -->
 
+<a href="mailto:behzadi.ehsan1984@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
 I'm a Freelance Data Analyst and Machine Learning Engineer passionate about transforming data into actionable insights and building intelligent and optimized solutions.
  
 ## Skills  
