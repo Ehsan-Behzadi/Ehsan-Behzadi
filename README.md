@@ -1,4 +1,4 @@
-![th - Copy (2)](https://github.com/user-attachments/assets/94f8a1b4-9290-4bc2-9ba4-8173007476ed)
+![1694240856478](https://github.com/user-attachments/assets/d06335d1-9a63-4f29-939a-7439f7a03fc0)
 
 <a href="mailto:behzadi.ehsan1984@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ehsan-behzadi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/> </a>
 
